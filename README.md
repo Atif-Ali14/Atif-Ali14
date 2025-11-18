@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/easy2-code/easy2-code/easy2code/guangjing-zhang-4.jpg" width="100%" style="border-radius: 20px; margin-bottom: 20px;" />
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1350&q=80" />
 
 <br />
 
